@@ -1,0 +1,2 @@
+class AwsException(Exception):
+    pass
