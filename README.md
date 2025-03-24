@@ -1,5 +1,5 @@
 # CloudMore-AWS
-CloudMore AWS Custom Service Integration
+CloudMore AWS Custom Service Integration Discovery Project
 
 ## Requirements
 
